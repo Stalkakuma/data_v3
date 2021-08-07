@@ -47,6 +47,7 @@ class App extends React.Component {
               name={myMemes.name}
               url={myMemes.url}
               alt={myMemes.id}
+              tevas={myMemes.url}
               />
             ))}  
         </div>
