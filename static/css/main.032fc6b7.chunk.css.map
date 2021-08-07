@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WACC,eACD,CACA,IACC,oBAAqB,CACrB,mBACD,CACA,GACC,cAAe,CACf,kBACD","file":"main.032fc6b7.chunk.css","sourcesContent":[".memeImage {\n\tmax-width: 300px;\n}\ndiv{\n\talign-content: center;\n\tdisplay: inline-grid;\n}\nh1{\n\tfont-size: 22px;\n\talign-items: center;\n}\nli{\n\t\n}"]}
